@@ -11,7 +11,7 @@ author_profile: true
 
 36\. Downs, J., Hiebert, E.H., **Conradi Smith, K.,** & Mantz, K.\* (2026). Promoting reading accuracy and fluency outcomes with complex texts: A grade 3 intervention comparison. *Reading Research Quarterly, 61(2).*
 
-35\. Parsons, A.W., **Conradi Smith, K.,** Vaughn, M., Klee, H., La Croix, L., & Core Yatzeck, J\*. (2025). Teacher Autonomy in Text Choices for Elementary Reading Instruction. *Reading Research Quarterly, 60(4).*
+35\. Parsons, A.W., **Conradi Smith, K.,** Vaughn, M., Klee, H., La Croix, L., & Core Yatzeck, J\*. (2025). Teacher Autonomy in Text Choices for Elementary Reading Instruction. *Reading Research Quarterly, 60(4).*  
 
 34\. Jang, B.G., & **Conradi Smith, K.** (2025). Critical review of profile research in reading motivation. *Reading Psychology*, 1-23.
 
