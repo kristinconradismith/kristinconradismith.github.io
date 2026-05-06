@@ -8,26 +8,20 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Education"
+    url: /education/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+
+  - title: "Conference Presentations"
+    url: /conference-presentations/
     
   - title: "CV"
     url: /files/kccv_March2026.pdf
     
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
